@@ -1,0 +1,30 @@
+{
+  "name": "CS648-M1-Lab1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manaliRedkar/CS648-M1-Lab1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manaliRedkar/CS648-M1-Lab1/issues"
+  },
+  "homepage": "https://github.com/manaliRedkar/CS648-M1-Lab1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-react": "^7.28.5",
+    "nodemon": "^3.1.14"
+  }
+}
